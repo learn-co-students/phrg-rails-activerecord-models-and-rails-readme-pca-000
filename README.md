@@ -169,5 +169,9 @@ Being able to work in different environments is one of the strong points of Rail
 
 We covered quite a bit of material in this lesson. You should now have a firm understanding of Active Record models in Rails. Active Record is a powerful tool that enables developers to focus on the logic of their applications while streamlining processes such as connecting to the database, running queries, and much more.
 
+## Does this need an update?
+
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-rails-activerecord-models-and-rails-readme/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-rails-activerecord-models-and-rails-readme/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 <p class='util--hide'>View <a href='https://learn.co/lessons/rails-activerecord-models-and-rails-readme'>Active Record Models and Rails</a> on Learn.co and start learning to code for free.</p>
 <p data-visibility='hidden'>PHRG Active Record Models and Rails</p>
